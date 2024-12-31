@@ -1,2 +1,1 @@
-# Cardiovascular-Disease
 # School Project
